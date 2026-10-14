@@ -1,0 +1,39 @@
+{
+ "bomFormat": "CycloneDX",
+ "specVersion": "1.5",
+ "serialNumber": "urn:uuid:22eba2e8-bb87-542f-b3a8-c687b5a16156",
+ "version": 1,
+ "metadata": {
+  "timestamp": "2026-10-06T16:23:26Z",
+  "component": {
+   "type": "application",
+   "name": "SHELLY",
+   "version": "83b357604d34",
+   "bom-ref": "pkg:generic/anticloud/SHELLY@83b357604d34",
+   "purl": "pkg:generic/anticloud/SHELLY@83b357604d34",
+   "licenses": [
+    {
+     "license": {
+      "id": "Apache-2.0"
+     }
+    }
+   ]
+  },
+  "properties": [
+   {
+    "name": "anticloud:source-commit",
+    "value": "null"
+   },
+   {
+    "name": "anticloud:source-url",
+    "value": "https://github.com/the-anticloud/OPENMRS_CORE.git"
+   },
+   {
+    "name": "anticloud:tier",
+    "value": "tier-agent"
+   }
+  ]
+ },
+ "components": [],
+ "sha_unverified": true
+}
